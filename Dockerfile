@@ -1,4 +1,4 @@
-FROM xhofe/alist:latest-aria2
+FROM xhofe/alist-aria2:latest
 LABEL MAINTAINER="i@nn.ci"
 WORKDIR /opt/alist/
 
